@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1587813208 source:c:\users\uzer\desktop\++\lab3v9\gr.cpp
+	"GR.h"
+
+1587813208 c:\users\uzer\desktop\++\lab3v9\gr.h
+	"Software.h"
+
+1587813208 c:\users\uzer\desktop\++\lab3v9\software.h
+	<iostream>
+	<windows.h>
+	<cstring>
+
+1587813208 source:c:\users\uzer\desktop\++\lab3v9\ide.cpp
+	"IDE.h"
+
+1587813208 c:\users\uzer\desktop\++\lab3v9\ide.h
+	"Software.h"
+
+1587812140 source:c:\users\uzer\desktop\++\lab3v9\main.cpp
+	"Software.h"
+	"IDE.h"
+	"GR.h"
+	"OS.h"
+	<iostream>
+
+1587813208 c:\users\uzer\desktop\++\lab3v9\os.h
+	"Software.h"
+
+1587813208 source:c:\users\uzer\desktop\++\lab3v9\os.cpp
+	"OS.h"
+
+1587813208 source:c:\users\uzer\desktop\++\lab3v9\software.cpp
+	"Software.h"
+
