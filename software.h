@@ -9,10 +9,10 @@ using namespace std;
 
 	class Software {
     protected:
-        Software(const string n,const string t,const string a);
 	string name, type, author;
 	public:
 		Software();
+		Software(const string n,const string t,const string a);
 		Software(const Software &obj);
 
 		virtual void print() const = 0;
